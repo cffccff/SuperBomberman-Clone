@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: 0a4a296f7f8f46d46983750cefd3590d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World 6 Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4218fbf419bdb5e4888a16edc8a0b1ec
+      internalID: 1661614329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 191
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09fd8e4b3f460f479d6c321ac8daec5
+      internalID: 1001316317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f75fb9699584842b9b7b3e40674918
+      internalID: 1239767667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5886f269c1832b540879893df6efc03b
+      internalID: 255763850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab2d6198799a146aa332d7043ae3e4
+      internalID: 518556828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b475a926637e194e999c0ba4f8a3468
+      internalID: 1683329849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8026285326cd66d4a9d5c35595357da1
+      internalID: -1766514079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66104acc58be9ea4bae1d08d545c7374
+      internalID: -311823631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31162e61aebfa014c9f58d43434f323b
+      internalID: 1822192149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 191
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c964bb53a3624594611e73835ce4f
+      internalID: -1991594447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 191
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa91b1d76979c584b80f22be49737fad
+      internalID: 360246391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 191
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9390a544750a54f9952eee062171fd
+      internalID: -139886779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d37b87ddf16459488469aaf6fab213d
+      internalID: 129048998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 189
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4cbd4029874e4ab7d4f2805bcb1a7
+      internalID: 792236129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 191
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73fe1f631ca2a54c83413616f47a322
+      internalID: -909168256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54590724c482c648800009a689a585e
+      internalID: 483044332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 147
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e51c941f8950469192f0be845dc9b
+      internalID: -1478439886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 124
+        width: 40
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bfb9659f314b04c93e3a41c8b73bd0
+      internalID: -1787842181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 124
+        width: 40
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af0b963473b7b4aa7cf3ab9288850c
+      internalID: 847655620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b00500ecf089e42aa6efdc2ee45a20
+      internalID: -1230542440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 150
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40256a27d5f07604780d5fd3148f8d32
+      internalID: 2054371435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6a399a51d571e47a5b20a6947568d6
+      internalID: -2003044942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 36
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5c76f805a62ce49b8706e298e166d6
+      internalID: 195124029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 75
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c49a3f303bb0d4c8dc20180c5c91e6
+      internalID: 1494576144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 24
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda24dfbfc04d594c94581c36e970e2e
+      internalID: -1492594660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6588d94fe3f904a8f24adca50ff7df
+      internalID: -444887787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 11
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31045c4be26e40f4992ad9d4962af289
+      internalID: -1351023995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7dbc5807784743b53eba1b31a399e
+      internalID: -1149655309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b81f4e51b02c4e4eb5ebb842b44f047
+      internalID: 982202495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ccff44319f274e82a173fab67017d
+      internalID: 1324568337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 26
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6ff1315e67bf41a123130df9c51c8
+      internalID: -166334253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 11
+        width: 12
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4d0a1df0833294cb111029420943db
+      internalID: -1731950307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 11
+        width: 17
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d01f26916ab5c4792ad323ea537712
+      internalID: -1763265777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 6 Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 11
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64707e9136133b14c8de72172c8e1415
+      internalID: 1857908483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      World 6 Enemies_7: -311823631
+      World 6 Enemies_15: 483044332
+      World 6 Enemies_16: -1478439886
+      World 6 Enemies_28: 982202495
+      World 6 Enemies_14: -909168256
+      World 6 Enemies_9: -1991594447
+      World 6 Enemies_26: -1351023995
+      World 6 Enemies_33: 1857908483
+      World 6 Enemies_2: 1239767667
+      World 6 Enemies_1: 1001316317
+      World 6 Enemies_23: 1494576144
+      World 6 Enemies_8: 1822192149
+      World 6 Enemies_24: -1492594660
+      World 6 Enemies_10: 360246391
+      World 6 Enemies_3: 255763850
+      World 6 Enemies_29: 1324568337
+      World 6 Enemies_20: 2054371435
+      World 6 Enemies_4: 518556828
+      World 6 Enemies_6: -1766514079
+      World 6 Enemies_27: -1149655309
+      World 6 Enemies_31: -1731950307
+      World 6 Enemies_18: 847655620
+      World 6 Enemies_22: 195124029
+      World 6 Enemies_5: 1683329849
+      World 6 Enemies_25: -444887787
+      World 6 Enemies_17: -1787842181
+      World 6 Enemies_32: -1763265777
+      World 6 Enemies_11: -139886779
+      World 6 Enemies_13: 792236129
+      World 6 Enemies_12: 129048998
+      World 6 Enemies_30: -166334253
+      World 6 Enemies_21: -2003044942
+      World 6 Enemies_0: 1661614329
+      World 6 Enemies_19: -1230542440
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

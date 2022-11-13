@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ad8da61cd12cba46acc4a61e4b5bc3e, type: 3}
+  m_Name: MapSO
+  m_EditorClassIdentifier: 
+  levelList:
+  - enemyList:
+    - {fileID: 7963480467812156937, guid: fa33ba97b85502b48a8651e651ef6200, type: 3}
+    - {fileID: 7963480467812156937, guid: fa33ba97b85502b48a8651e651ef6200, type: 3}
+    - {fileID: 7963480467812156937, guid: fa33ba97b85502b48a8651e651ef6200, type: 3}
+    - {fileID: 7963480467812156937, guid: fa33ba97b85502b48a8651e651ef6200, type: 3}
+    - {fileID: 3087035727789136120, guid: 8c5ebabd0a0b13345a0fab6c282e0db4, type: 3}
+    softBlock: {fileID: 11400000, guid: 1cf37645132507d4abcd00d630ab3d68, type: 2}
+    hardBlock: {fileID: 11400000, guid: c245b6ec1d4d1564e853178238a5ce14, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 2221349657151736337, guid: 73a42f674fe05d348a1b6a2c14b327d3, type: 3}
+    - {fileID: 7538513614179714053, guid: 061e4af0cf56ba848ae6ff1ae62a97c9, type: 3}
+    - {fileID: 6792060046706735359, guid: 6da0ad4d560addf4fa4d7c1d7bb125b7, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 7963480467812156937, guid: fa33ba97b85502b48a8651e651ef6200, type: 3}
+    - {fileID: 2043628434428445563, guid: 49fb5b21d42e94540a0bbd8dec934d28, type: 3}
+    - {fileID: 3087035727789136120, guid: 8c5ebabd0a0b13345a0fab6c282e0db4, type: 3}
+    - {fileID: 3087035727789136120, guid: 8c5ebabd0a0b13345a0fab6c282e0db4, type: 3}
+    - {fileID: 2043628434428445563, guid: 49fb5b21d42e94540a0bbd8dec934d28, type: 3}
+    softBlock: {fileID: 11400000, guid: 1cf37645132507d4abcd00d630ab3d68, type: 2}
+    hardBlock: {fileID: 11400000, guid: c245b6ec1d4d1564e853178238a5ce14, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 6792060046706735359, guid: 6da0ad4d560addf4fa4d7c1d7bb125b7, type: 3}
+    - {fileID: 3083944686312069198, guid: 8d2270f6fa0c4174aa10e4cd2f2eface, type: 3}
+    - {fileID: 3083944686312069198, guid: 8d2270f6fa0c4174aa10e4cd2f2eface, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 3087035727789136120, guid: eaa5a107f0fde2d4d9ed4be4ebf7f674, type: 3}
+    - {fileID: 2043628434428445563, guid: 49fb5b21d42e94540a0bbd8dec934d28, type: 3}
+    - {fileID: 7963480467812156937, guid: 16e1b9dcfbceb324aa2de2387b0c489e, type: 3}
+    - {fileID: 3087035727789136120, guid: 8c5ebabd0a0b13345a0fab6c282e0db4, type: 3}
+    - {fileID: 2043628434428445563, guid: 49fb5b21d42e94540a0bbd8dec934d28, type: 3}
+    - {fileID: 3087035727789136120, guid: eaa5a107f0fde2d4d9ed4be4ebf7f674, type: 3}
+    softBlock: {fileID: 11400000, guid: fca3c0d2a8f73a349a1d8c36b4c40cb1, type: 2}
+    hardBlock: {fileID: 11400000, guid: b2be16024ce26484a9996da611942008, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 7538513614179714053, guid: 061e4af0cf56ba848ae6ff1ae62a97c9, type: 3}
+    - {fileID: 6877556101263517617, guid: 5d56fa08728a9944d966a621b793e128, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 8352592745548924588, guid: 26118f58e328d084b95efde9bd5a60b6, type: 3}
+    softBlock: {fileID: 11400000, guid: fca3c0d2a8f73a349a1d8c36b4c40cb1, type: 2}
+    hardBlock: {fileID: 11400000, guid: b2be16024ce26484a9996da611942008, type: 2}
+    ground: {fileID: 0}
+    powerUpList: []
+    isBoss: 1
+  - enemyList:
+    - {fileID: 7963480467812156937, guid: 16e1b9dcfbceb324aa2de2387b0c489e, type: 3}
+    - {fileID: 7963480467812156937, guid: 16e1b9dcfbceb324aa2de2387b0c489e, type: 3}
+    - {fileID: 3087035727789136120, guid: eaa5a107f0fde2d4d9ed4be4ebf7f674, type: 3}
+    - {fileID: 3076773714624354244, guid: 1cee70021d7e2204e80b4934eea068e9, type: 3}
+    - {fileID: 1374333543714011100, guid: 0d7f89b999054f24a9aa314a118ac137, type: 3}
+    - {fileID: 1374333543714011100, guid: 0d7f89b999054f24a9aa314a118ac137, type: 3}
+    softBlock: {fileID: 11400000, guid: 305fc74ebd72bf64ebaac8d0c22507f1, type: 2}
+    hardBlock: {fileID: 11400000, guid: 7fe1387fc26e0cf43ae29135ce27df8e, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 2559212594198463776, guid: 3c8165d74d825ed419ea3bd5406c5f8f, type: 3}
+    - {fileID: 5731016078528437783, guid: 069b69ca46053274da8381ce21e82bba, type: 3}
+    - {fileID: 2221349657151736337, guid: 73a42f674fe05d348a1b6a2c14b327d3, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 1374333543714011100, guid: 0d7f89b999054f24a9aa314a118ac137, type: 3}
+    - {fileID: 7963480467812156937, guid: bece749c0eaa3464c866633f3d4ef1b8, type: 3}
+    - {fileID: 7158232134944502088, guid: ce43ccd89ff6c2c4f897eaf3079fdb96, type: 3}
+    - {fileID: 4427027373209961844, guid: 443044d0da362ab4c9c08cd9377ab6a5, type: 3}
+    - {fileID: 7158232134944502088, guid: ce43ccd89ff6c2c4f897eaf3079fdb96, type: 3}
+    - {fileID: 3087035727789136120, guid: eaa5a107f0fde2d4d9ed4be4ebf7f674, type: 3}
+    softBlock: {fileID: 11400000, guid: 305fc74ebd72bf64ebaac8d0c22507f1, type: 2}
+    hardBlock: {fileID: 11400000, guid: 7fe1387fc26e0cf43ae29135ce27df8e, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 4138478274592996880, guid: 3c74f59c4f93d9847b0db1c483e62ab2, type: 3}
+    - {fileID: 3165206539849129644, guid: 6665f3ca8a571e740bfa2b04b30c26dd, type: 3}
+    - {fileID: 7913091707572882678, guid: bf9d09fe77cdbee4480585f2c83dc3fa, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 3076773714624354244, guid: 1cee70021d7e2204e80b4934eea068e9, type: 3}
+    - {fileID: 3076773714624354244, guid: 1cee70021d7e2204e80b4934eea068e9, type: 3}
+    - {fileID: 1374333543714011100, guid: 0d7f89b999054f24a9aa314a118ac137, type: 3}
+    - {fileID: 7963480467812156937, guid: bece749c0eaa3464c866633f3d4ef1b8, type: 3}
+    - {fileID: 3087035727789136120, guid: eaa5a107f0fde2d4d9ed4be4ebf7f674, type: 3}
+    - {fileID: 1523193491670664584, guid: 604c01c7197a5ed4ea62288d40c9f319, type: 3}
+    softBlock: {fileID: 11400000, guid: 5e63b70c4c457354f89977488a74edb2, type: 2}
+    hardBlock: {fileID: 11400000, guid: e47b1d73324317049a0206ecff9969a7, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 3083944686312069198, guid: 8d2270f6fa0c4174aa10e4cd2f2eface, type: 3}
+    - {fileID: 7913091707572882678, guid: bf9d09fe77cdbee4480585f2c83dc3fa, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 6323203004644472431, guid: feb3574f190403a4084f36aca627b1a2, type: 3}
+    softBlock: {fileID: 11400000, guid: 5e63b70c4c457354f89977488a74edb2, type: 2}
+    hardBlock: {fileID: 11400000, guid: e47b1d73324317049a0206ecff9969a7, type: 2}
+    ground: {fileID: 0}
+    powerUpList: []
+    isBoss: 1
+  - enemyList:
+    - {fileID: 3865820239018106351, guid: 6e2e178326c5f4d4bbe36c470678ccb3, type: 3}
+    - {fileID: 3865820239018106351, guid: 6e2e178326c5f4d4bbe36c470678ccb3, type: 3}
+    - {fileID: 3087035727789136120, guid: eaa5a107f0fde2d4d9ed4be4ebf7f674, type: 3}
+    - {fileID: 102293701530377603, guid: bae4c7592a15bc147b9da0e74e8a52b9, type: 3}
+    - {fileID: 1523193491670664584, guid: 604c01c7197a5ed4ea62288d40c9f319, type: 3}
+    softBlock: {fileID: 11400000, guid: 32c8f9fc67cebda46ab70a1853ed93fb, type: 2}
+    hardBlock: {fileID: 11400000, guid: 0070027d098c7a64391a7d86bd4641b4, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 3165206539849129644, guid: 6665f3ca8a571e740bfa2b04b30c26dd, type: 3}
+    - {fileID: 6877556101263517617, guid: 5d56fa08728a9944d966a621b793e128, type: 3}
+    - {fileID: 2559212594198463776, guid: 3c8165d74d825ed419ea3bd5406c5f8f, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 102293701530377603, guid: bae4c7592a15bc147b9da0e74e8a52b9, type: 3}
+    - {fileID: 102293701530377603, guid: bae4c7592a15bc147b9da0e74e8a52b9, type: 3}
+    - {fileID: 4468680887607473604, guid: e203d33083a784e48a67c9d66ee8e3cf, type: 3}
+    - {fileID: 7963480467812156937, guid: 209644cead135c948866542222d7f68a, type: 3}
+    - {fileID: 7963480467812156937, guid: bece749c0eaa3464c866633f3d4ef1b8, type: 3}
+    - {fileID: 1523193491670664584, guid: 604c01c7197a5ed4ea62288d40c9f319, type: 3}
+    softBlock: {fileID: 11400000, guid: 32c8f9fc67cebda46ab70a1853ed93fb, type: 2}
+    hardBlock: {fileID: 11400000, guid: 0070027d098c7a64391a7d86bd4641b4, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 7538513614179714053, guid: 061e4af0cf56ba848ae6ff1ae62a97c9, type: 3}
+    - {fileID: 3083944686312069198, guid: 8d2270f6fa0c4174aa10e4cd2f2eface, type: 3}
+    - {fileID: 4138478274592996880, guid: 3c74f59c4f93d9847b0db1c483e62ab2, type: 3}
+    - {fileID: 3165206539849129644, guid: 6665f3ca8a571e740bfa2b04b30c26dd, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 7963480467812156937, guid: bece749c0eaa3464c866633f3d4ef1b8, type: 3}
+    - {fileID: 7963480467812156937, guid: bece749c0eaa3464c866633f3d4ef1b8, type: 3}
+    - {fileID: 102293701530377603, guid: bae4c7592a15bc147b9da0e74e8a52b9, type: 3}
+    - {fileID: 4468680887607473604, guid: e203d33083a784e48a67c9d66ee8e3cf, type: 3}
+    - {fileID: 7963480467812156937, guid: 209644cead135c948866542222d7f68a, type: 3}
+    - {fileID: 3087035727789136120, guid: eaa5a107f0fde2d4d9ed4be4ebf7f674, type: 3}
+    softBlock: {fileID: 11400000, guid: f23085efa98e79149aec3dfbc7a7b393, type: 2}
+    hardBlock: {fileID: 11400000, guid: 33e83cc9c8a615a41af41f5896ccd6db, type: 2}
+    ground: {fileID: 0}
+    powerUpList:
+    - {fileID: 6792060046706735359, guid: 6da0ad4d560addf4fa4d7c1d7bb125b7, type: 3}
+    - {fileID: 5731016078528437783, guid: 069b69ca46053274da8381ce21e82bba, type: 3}
+    - {fileID: 7538513614179714053, guid: 061e4af0cf56ba848ae6ff1ae62a97c9, type: 3}
+    - {fileID: 7913091707572882678, guid: bf9d09fe77cdbee4480585f2c83dc3fa, type: 3}
+    isBoss: 0
+  - enemyList:
+    - {fileID: 141029939493067851, guid: 4db62252537138d4cad6eded93d74bd7, type: 3}
+    softBlock: {fileID: 11400000, guid: f23085efa98e79149aec3dfbc7a7b393, type: 2}
+    hardBlock: {fileID: 11400000, guid: 33e83cc9c8a615a41af41f5896ccd6db, type: 2}
+    ground: {fileID: 0}
+    powerUpList: []
+    isBoss: 1

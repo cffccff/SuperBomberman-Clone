@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 69fcd351a19e75748b6c7ec25c846a64
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548e38254ea30041b8f630a6abb3cb2
+      internalID: -52073914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5212aaf55cefb4f98d88ab36d17e83
+      internalID: -523437343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f539df31a3194caba1946326fd224
+      internalID: -221592472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af801b53a819d478e1ef498575c79e
+      internalID: -1151350554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197f5b28c0139b84da023b9ea435eaca
+      internalID: -874947142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225ffcd910cc1a44820a14ee3b3a641
+      internalID: 732094284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 161
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdccc3a38a78d14cb83542364e879d9
+      internalID: -170596786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 161
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e899f96fc948348853a6d3a34ed385
+      internalID: 939378908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 161
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50ee64eadcc4d49b8d8c0efd5f5524
+      internalID: 1196645856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 161
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1082f212c8d96849b5bd9d18035d2b1
+      internalID: -1572458404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 161
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce7d91ebc9487a4d93b85a439ba7fa9
+      internalID: -1252327341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963a6c3152d2c8c4a9811ad348fa41e2
+      internalID: -1214408666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c2c0771c925d4eb59fc2bf4768f80
+      internalID: 2136161177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040020870bc3424c9e2315907ab7357
+      internalID: -2129861258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 161
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb8e35e46a33a46865fd7b3d0a5cea
+      internalID: -173899999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bd5ff53bdcc1e46ad3b001ab92294a
+      internalID: -1583503632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 132
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b515f917714d943af4246f10720135
+      internalID: 1783414571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 132
+        width: 15
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3e237ba1f248d4d977a6723275f93a
+      internalID: 1326069047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4500adc69830b01499494520ef67f47f
+      internalID: -333085362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 132
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2049da1ff12f446b41ba7d9dc46fb4
+      internalID: 611916199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 132
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a58c2087d76f49b59bb258b49cdfb
+      internalID: 1586860842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 132
+        width: 15
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a69716ea07cb34e80fb1aa79c8ad0b
+      internalID: 781337372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 132
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d55a553b19c247b30ea63ed589117
+      internalID: -497317108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 132
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df3f79300b382f43ad8d297ccc08a45
+      internalID: 1624878061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 132
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815f0f61ebcaaf849a8f9199c7036cb7
+      internalID: 1351333063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 132
+        width: 15
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158507d583cd4c4f9f7e9e7506a8fe1
+      internalID: -1601160654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 132
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe021fc31ab304aabb314f0e9593fe
+      internalID: 2039393897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 78
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eab9498c327fe47935c0788ffca228
+      internalID: -745329692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 78
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121172254018c7b48876663db7337c5e
+      internalID: 431839362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 60
+        width: 76
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6bd93e9765aae429f64b46258785e9
+      internalID: 855468496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 97
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4024d155a59044899e0cb61c3fa4a5
+      internalID: -1447100955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 97
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9e0ef021ff6f3489480b0b2005c424
+      internalID: 712826654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 60
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62342fb1c6646ec4c93c0fda87f9dae4
+      internalID: -1965049034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - World 4 Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 60
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5843adc55be44ba8b9ad4a931baa3
+      internalID: 1601630577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Bomberman - World 4 Enemies_21: 781337372
+      SNES - Super Bomberman - World 4 Enemies_20: 1586860842
+      SNES - Super Bomberman - World 4 Enemies_16: 1783414571
+      SNES - Super Bomberman - World 4 Enemies_2: -221592472
+      SNES - Super Bomberman - World 4 Enemies_19: 611916199
+      SNES - Super Bomberman - World 4 Enemies_4: -874947142
+      SNES - Super Bomberman - World 4 Enemies_15: -1583503632
+      SNES - Super Bomberman - World 4 Enemies_9: -1572458404
+      SNES - Super Bomberman - World 4 Enemies_7: 939378908
+      SNES - Super Bomberman - World 4 Enemies_17: 1326069047
+      SNES - Super Bomberman - World 4 Enemies_29: 855468496
+      SNES - Super Bomberman - World 4 Enemies_25: -1601160654
+      SNES - Super Bomberman - World 4 Enemies_18: -333085362
+      SNES - Super Bomberman - World 4 Enemies_36: -1423024149
+      SNES - Super Bomberman - World 4 Enemies_33: 1601630577
+      SNES - Super Bomberman - World 4 Enemies_12: 2136161177
+      SNES - Super Bomberman - World 4 Enemies_22: -497317108
+      SNES - Super Bomberman - World 4 Enemies_23: 1624878061
+      SNES - Super Bomberman - World 4 Enemies_34: 493284337
+      SNES - Super Bomberman - World 4 Enemies_14: -173899999
+      SNES - Super Bomberman - World 4 Enemies_3: -1151350554
+      SNES - Super Bomberman - World 4 Enemies_27: -745329692
+      SNES - Super Bomberman - World 4 Enemies_6: -170596786
+      SNES - Super Bomberman - World 4 Enemies_31: 712826654
+      SNES - Super Bomberman - World 4 Enemies_28: 431839362
+      SNES - Super Bomberman - World 4 Enemies_11: -1214408666
+      SNES - Super Bomberman - World 4 Enemies_30: -1447100955
+      SNES - Super Bomberman - World 4 Enemies_10: -1252327341
+      SNES - Super Bomberman - World 4 Enemies_1: -523437343
+      SNES - Super Bomberman - World 4 Enemies_13: -2129861258
+      SNES - Super Bomberman - World 4 Enemies_26: 2039393897
+      SNES - Super Bomberman - World 4 Enemies_24: 1351333063
+      SNES - Super Bomberman - World 4 Enemies_0: -52073914
+      SNES - Super Bomberman - World 4 Enemies_32: -1965049034
+      SNES - Super Bomberman - World 4 Enemies_35: 286563109
+      SNES - Super Bomberman - World 4 Enemies_5: 732094284
+      SNES - Super Bomberman - World 4 Enemies_8: 1196645856
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

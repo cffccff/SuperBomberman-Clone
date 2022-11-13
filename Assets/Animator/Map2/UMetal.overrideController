@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UMetal
+  m_Controller: {fileID: 9100000, guid: eff6126b233f8484f8b6823bb726c972, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 36faed761e7479e4fbb63a48b571d68f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea5f8dad71ad4764dbf148f30d38ae1f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c4ee05948243ee24e9632ab8f98cb306, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea5f8dad71ad4764dbf148f30d38ae1f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 53d0652609a75e349a3584d24a86401d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea5f8dad71ad4764dbf148f30d38ae1f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d77b08f34c54e6f469924f7268b4514c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea5f8dad71ad4764dbf148f30d38ae1f, type: 2}

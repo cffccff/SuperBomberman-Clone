@@ -1,0 +1,3174 @@
+fileFormatVersion: 2
+guid: cbc7862adad33db47ae681a4ddaca43d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World 1 Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9b92f8a32574a47b040a206e6f89ab
+      internalID: -198935636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d8718dfbed7642818a4118a1e1544
+      internalID: 1767757362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450a4035effe5b744b725e924f67773c
+      internalID: -873431046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e935d6e81292144a48fa55b2e5cdb3
+      internalID: 1824912533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27a2a278b3a304ea874cfe998954fc
+      internalID: 2092364680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0457a1219cb04eaf645920812caa8
+      internalID: -2022431828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f205dd7da20b2944aa1e7357ee3b5541
+      internalID: 1764165117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11579006d4fec8c4a8083073bfeb0cd5
+      internalID: 1825438057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4921f020d0a9d8b4191f9f31c7a83597
+      internalID: 1170026472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b88cf01af880984c83473e84cbaf3cd
+      internalID: -1920139526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebf80a995e59d242b7b3f83aa77077b
+      internalID: 1343208500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 214
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f0c897fe34fc040a73b99f8674d6cd
+      internalID: 1325660804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e5993038a20142b2212e03b9b288a
+      internalID: -1361040828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa79507c0f6a0479e3f308ae9e3f85
+      internalID: 369687905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 214
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48d2511119e084b8406c62e7570a4e
+      internalID: -1497136063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0f4d79fe68cf40a32add58883b5d1
+      internalID: -1466431742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6816782ede9881241be61a28ca3c4708
+      internalID: -2021641774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 214
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ff31785f390047950da8ab4fa8165
+      internalID: -1796922006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c823b8d115884fb0094461cfafbaf
+      internalID: -1696603872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f33fe3de0b0ad43a6b2dc9afb16008
+      internalID: 1296389878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 185
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6709a2648b163d141bc54f046e2177d6
+      internalID: -1283247531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 185
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2440c461c3e0b5149bcf6ccc96f119af
+      internalID: 739454786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a4493523632a49a42c9a1515d9131
+      internalID: 330052278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae90cca9867efe4b9aeb742bc413f4a
+      internalID: -71752196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6573d2bf11ede749b34f172486d524b
+      internalID: 1886956597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 185
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ef9d8d23d428b4fbd0bdf50855264a
+      internalID: -1956453555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71eb911f2be8c040b1e28a30d1e2698
+      internalID: -1073395483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a131e864dab0fc4ab834ddd794970c7
+      internalID: -246981864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 185
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfce65302c4049b4184d5fa6d1bfcc03
+      internalID: -313631914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe76650a7cc684c93a3e1a8a6bf004
+      internalID: -1686660179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 185
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67ff92d7ab839418b4fb68a7f6bb10
+      internalID: -1369387738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 185
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029182eb6c32df74cadeed3031dd41e4
+      internalID: 1631731337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda2f4fc7bf75748a9f8abb79966a9f
+      internalID: 506845391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cebf802d490ee45ba3c37a012120f0
+      internalID: 1211691613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 185
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66d50bb00781b4f81c7a7f856cf185
+      internalID: -354225009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e7d2cf5ec77c4fbba6969ddf136eb
+      internalID: 765767569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60291d87e21d33a46a10ec26c2d53372
+      internalID: 1958032034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 185
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb1a99a81413eb40a4636201efefff9
+      internalID: 829780585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51302557492b2fe40a324620715ad9fd
+      internalID: 743641210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 185
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b62afc505dba004885c3e29ef19992d
+      internalID: -1863268490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 185
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e2a3b282250c47af9586d847f06e4
+      internalID: -415479734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d48e5da92e194499d8ef3e4395b0c
+      internalID: 1277996756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 185
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be65d1861f9686489ed8bc06915288f
+      internalID: -2022088931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cccd0936b753004bb67752d4ca46203
+      internalID: 2105678192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de49ab30893e4334291b63ee8a0879ee
+      internalID: 492822699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aadc5c156c4f040b2893dc9637115e
+      internalID: -1302017745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78536a35d1356a343a30ca61fd22112e
+      internalID: 2117199126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba218a7056073aa4382e40b257c9d006
+      internalID: 653574072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e632590a731ac4dacec0dd2b03f93a
+      internalID: 1690916489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27059cfca3f7f5248b9de8d57a44ed38
+      internalID: -165708721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e98769cb3d2347832f8747fd36f63
+      internalID: 324634874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94c547d5256d9845960ad3c55ef56de
+      internalID: 1375723347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd98cb12e6fc7e4fa9702579106aeaa
+      internalID: 1276352024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff65684a7b3230845be4f66e7a84a724
+      internalID: -1352769686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a6ce50a1f00f941bd7539221391463
+      internalID: 2085097391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6275ff4409db1124bac78d50b9ce2acf
+      internalID: 244446322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a26892019c32b48b8cb7ad1d08175e
+      internalID: -124448271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 160
+        width: 12
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff134063e6ccb4f8f5d80ef86c8f14
+      internalID: 1736655276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92781e5d54b7e5543841ebcf60dd91f1
+      internalID: 1413628273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c99e4b37f4fc94b883d61917f7a60d
+      internalID: -296749306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbaad3c28cc14741bc9f88303b11c27
+      internalID: -350834710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0db8385409b245b4f2fc37551bb00
+      internalID: -1749521062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49f4510a9d40541b46c1f5098b487e
+      internalID: 1655763342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ece24a706e5eb48abab053e1e2f465
+      internalID: -1253113679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a01e043605d54f9ed6c29723b8b76
+      internalID: -1021405072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5dfdcb74101d145818bac7ed15384f
+      internalID: 346556095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6294d28be8ddd43977de48d008d381
+      internalID: -848022187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ce24f38cfaa34183b4c0f3c43ea9b
+      internalID: -509321503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d737c3f65dcc8a41989e0fe2c68c87d
+      internalID: -1972364116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1abad167ab044db56297b6aaecb7e
+      internalID: -1954915289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb4b55cbac31243b8ccde62a359ee6
+      internalID: -1658826964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87c193be555d064bb3dc00d7800308a
+      internalID: 240614889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4a970ed0fded4b89e54af17cd4c9c
+      internalID: 1417692848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd58c5bdfe5c254c92bad890369a34d
+      internalID: -2005139342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dfa1f136ea7ec4aaaf7affce28048e
+      internalID: 1737004547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058f0cd4d9284341a28df5292fce2bc
+      internalID: 1430051930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237b73857d179a48b5708453d3c55d2
+      internalID: 1399900392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ed4b6325437a41a0e52358f81b9e1
+      internalID: -124875472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7b0acf297019439513e47f1be4be6
+      internalID: -469655076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26cf798355f5f640999900a0101c853
+      internalID: 2090414989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b89a951665f48458383b88f9baa123
+      internalID: 1319591108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c72b50d691f44aa97612bd2b032a2
+      internalID: -2008457281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f297ef06aec72184ea065c0e7b015831
+      internalID: -1754947672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 107
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b71dcc319a7c42910c0126951cc24
+      internalID: -660032948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e4d235704cd964584446d09d592a05
+      internalID: -1853889595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a30a63fe21fa45be10452ffdb7da1
+      internalID: 57837452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302466b9e751452409f352ac9954540c
+      internalID: -2071132920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4d2e9bdec76a408740bafc852611a
+      internalID: -1943687231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239209d7a3db56e4598a573c8f1d0521
+      internalID: 900905561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88608c7ec18b79442841bc4f07e36250
+      internalID: -1914999586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d796196b75af0143ad18cdaf20e98d0
+      internalID: -705106295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1bd3cf124fc3d4bac7ddaea90dec4a
+      internalID: -1435252610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8bd91a368b1f449b527ce0375f633
+      internalID: -1136101769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849a00a441816e4ab5a4c2eb7b861bf
+      internalID: -24084214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af504ae5ae6af9e47a7520cc5f079f9e
+      internalID: -1040360922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152afbf89e6978442845447dbdb8722c
+      internalID: -627815947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7bc43f6fa6354f98291b572ecd7d7
+      internalID: -1363562520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a8b3f0075fe041a868faf4ca13bbf
+      internalID: 745147953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e74cb8f6d0d9449c711e7469471d6
+      internalID: -135038390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa79ea6dd994e10479f30d40973f233f
+      internalID: -1548174931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cf56be72495c4687915bc2cd0f02d
+      internalID: -2062724573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ac9965d1fd9243baf4f72237ab977
+      internalID: 1440969380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e372fcbc8806b5469d0a185ba5bdbae
+      internalID: 954054097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6f8e5dff2a9a49ad6fe8dadd48e46
+      internalID: 2114477105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436854fe773fab24f9e1b026e0818785
+      internalID: 687628934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d9461bbff06a49ab6508e7a649d7d
+      internalID: -910758201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 77
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d510c34bf2981ec4f96070f724660305
+      internalID: 1972080207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f9a3b56df10b4a970050ea1372a79
+      internalID: -266712763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830cdaf1559b1143bce20072647cd1a
+      internalID: -1098737551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82dba5aea416344a886fdcaa103a44
+      internalID: -138052055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1472e486b7944db5917562b139c28
+      internalID: 1978022465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4141743c2dd96604f9432f35a76334ec
+      internalID: -987901001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206d26aafa511e4cb8cb289e895d313
+      internalID: 2093755017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9cc35c49c1df04ba86029cf065398f
+      internalID: 119488487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc22117fa225f7e45a9ee05aa165141c
+      internalID: 1114620421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c349b306fa7a458b754aff2b0faa3
+      internalID: 2137066431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca6ccde38a70e46b2fb615f21ba5ef
+      internalID: -211926085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55c8eed073d334aaee637b5d2c3e33
+      internalID: -25391033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5065630af809baa488d052d9ee945842
+      internalID: -1517445496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511011e43f7297a4fbe892adf36c5173
+      internalID: 2083115070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 6
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1acb737e31b8b645a80b0be072aca3f
+      internalID: 2040653045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 14
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396c3ac44c742bb4d9b3e8cfe1feeabc
+      internalID: -1353057508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec0c8eea562a641afbf7f5617204eb
+      internalID: -468620226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 23
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a469f650ccac48adb29257be178c4
+      internalID: -328767178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 26
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d8446985d6454d8e9e5f27687738d
+      internalID: 2100334926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 30
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260e118edf0f2244aa895b8fd843b058
+      internalID: -2053325648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0cf52f4ab127b4cb662c362937b48e
+      internalID: 1769911464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18c650ab0424240bf58407bb8f8e35
+      internalID: -1612799387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 13
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0502a4eb9b4a884396ad9e29b2a5742
+      internalID: -58716586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e9caca2392e944c9c342d8a394524a
+      internalID: 400965238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dade4fece4dc9f479824a2536884de0
+      internalID: 1489857599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0bef5b63b34864db5c361444b1d76d
+      internalID: -515278791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0dceab880195c46b9c88ca80d3f570
+      internalID: -582494650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ae10b761bfeba4788cf3bc012bbc46
+      internalID: 63189485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236467d5e21f4d94892dd24bc3a3db62
+      internalID: 1128578144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 13
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339db5a1382330c44912aaa5ea414a03
+      internalID: -1413007746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World 1 Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91a9743660ce74eb01343415a48f97
+      internalID: -1265204091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03bc90d1ab20f0f48b289acfc88cf90e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      World 1 Enemies_142: -58716586
+      World 1 Enemies_35: 1211691613
+      World 1 Enemies_51: -165708721
+      World 1 Enemies_129: 2137066431
+      World 1 Enemies_76: 1655763342
+      World 1 Enemies_12: -1361040828
+      World 1 Enemies_18: 1180133140
+      World 1 Enemies_44: -2022088931
+      World 1 Enemies_145: -515278791
+      World 1 Enemies_29: -246981864
+      World 1 Enemies_40: 743641210
+      World 1 Enemies_84: -1658826964
+      World 1 Enemies_86: 1417692848
+      World 1 Enemies_83: -1954915289
+      World 1 Enemies_33: 1631731337
+      World 1 Enemies_5: -2022431828
+      World 1 Enemies_11: 1325660804
+      World 1 Enemies_52: 324634874
+      World 1 Enemies_72: -904222673
+      World 1 Enemies_58: -124448271
+      World 1 Enemies_108: -1040360922
+      World 1 Enemies_148: 1128578144
+      World 1 Enemies_79: 346556095
+      World 1 Enemies_127: 119488487
+      World 1 Enemies_125: -987901001
+      World 1 Enemies_97: -660032948
+      World 1 Enemies_47: -1302017745
+      World 1 Enemies_111: 745147953
+      World 1 Enemies_124: 1978022465
+      World 1 Enemies_115: 1440969380
+      World 1 Enemies_82: -1972364116
+      World 1 Enemies_140: 1769911464
+      World 1 Enemies_73: 679028081
+      World 1 Enemies_48: 2117199126
+      World 1 Enemies_132: -1517445496
+      World 1 Enemies_8: 1170026472
+      World 1 Enemies_96: -1754947672
+      World 1 Enemies_102: 900905561
+      World 1 Enemies_22: -1283247531
+      World 1 Enemies_93: 2090414989
+      World 1 Enemies_26: 1886956597
+      World 1 Enemies_13: 369687905
+      World 1 Enemies_34: 506845391
+      World 1 Enemies_89: 1430051930
+      World 1 Enemies_118: 687628934
+      World 1 Enemies_78: -1021405072
+      World 1 Enemies_112: -135038390
+      World 1 Enemies_61: -296749306
+      World 1 Enemies_57: 244446322
+      World 1 Enemies_14: -1497136063
+      World 1 Enemies_53: 1375723347
+      World 1 Enemies_67: -2015854694
+      World 1 Enemies_59: 1736655276
+      World 1 Enemies_101: -1943687231
+      World 1 Enemies_85: 240614889
+      World 1 Enemies_70: 1145972249
+      World 1 Enemies_150: -1265204091
+      World 1 Enemies_90: 1399900392
+      World 1 Enemies_144: 1489857599
+      World 1 Enemies_109: -627815947
+      World 1 Enemies_24: 330052278
+      World 1 Enemies_43: 1277996756
+      World 1 Enemies_110: -1363562520
+      World 1 Enemies_94: 1319591108
+      World 1 Enemies_87: -2005139342
+      World 1 Enemies_146: -582494650
+      World 1 Enemies_37: 765767569
+      World 1 Enemies_68: 152591716
+      World 1 Enemies_117: 2114477105
+      World 1 Enemies_20: -1696603872
+      World 1 Enemies_99: 57837452
+      World 1 Enemies_123: -138052055
+      World 1 Enemies_39: 829780585
+      World 1 Enemies_7: 1825438057
+      World 1 Enemies_134: 2040653045
+      World 1 Enemies_69: -998898067
+      World 1 Enemies_65: -980721261
+      World 1 Enemies_149: -1413007746
+      World 1 Enemies_38: 1958032034
+      World 1 Enemies_138: 2100334926
+      World 1 Enemies_28: -1073395483
+      World 1 Enemies_114: -2062724573
+      World 1 Enemies_49: 653574072
+      World 1 Enemies_80: -848022187
+      World 1 Enemies_4: 2092364680
+      World 1 Enemies_107: -24084214
+      World 1 Enemies_30: -313631914
+      World 1 Enemies_120: 1972080207
+      World 1 Enemies_143: 400965238
+      World 1 Enemies_27: -1956453555
+      World 1 Enemies_42: -415479734
+      World 1 Enemies_60: 1413628273
+      World 1 Enemies_2: -873431046
+      World 1 Enemies_130: -211926085
+      World 1 Enemies_131: -25391033
+      World 1 Enemies_135: -1353057508
+      World 1 Enemies_32: -1369387738
+      World 1 Enemies_41: -1863268490
+      World 1 Enemies_81: -509321503
+      World 1 Enemies_122: -1098737551
+      World 1 Enemies_3: 1824912533
+      World 1 Enemies_100: -2071132920
+      World 1 Enemies_103: -1914999586
+      World 1 Enemies_19: 1500599889
+      World 1 Enemies_54: 1276352024
+      World 1 Enemies_45: 2105678192
+      World 1 Enemies_46: 492822699
+      World 1 Enemies_92: -469655076
+      World 1 Enemies_137: -328767178
+      World 1 Enemies_104: -705106295
+      World 1 Enemies_136: -468620226
+      World 1 Enemies_105: -1435252610
+      World 1 Enemies_66: -1043647861
+      World 1 Enemies_36: -354225009
+      World 1 Enemies_98: -1853889595
+      World 1 Enemies_141: -1612799387
+      World 1 Enemies_16: -2021641774
+      World 1 Enemies_25: -71752196
+      World 1 Enemies_91: -124875472
+      World 1 Enemies_139: -2053325648
+      World 1 Enemies_23: 739454786
+      World 1 Enemies_31: -1686660179
+      World 1 Enemies_126: 2093755017
+      World 1 Enemies_0: -198935636
+      World 1 Enemies_88: 1737004547
+      World 1 Enemies_116: 954054097
+      World 1 Enemies_95: -2008457281
+      World 1 Enemies_63: -1229838886
+      World 1 Enemies_17: -1796922006
+      World 1 Enemies_50: 1690916489
+      World 1 Enemies_62: -699909119
+      World 1 Enemies_128: 1114620421
+      World 1 Enemies_10: 1343208500
+      World 1 Enemies_56: 2085097391
+      World 1 Enemies_133: 2083115070
+      World 1 Enemies_9: -1920139526
+      World 1 Enemies_64: 1067766834
+      World 1 Enemies_15: -1466431742
+      World 1 Enemies_71: 2023153572
+      World 1 Enemies_75: -1749521062
+      World 1 Enemies_113: -1548174931
+      World 1 Enemies_74: -350834710
+      World 1 Enemies_147: 63189485
+      World 1 Enemies_1: 1767757362
+      World 1 Enemies_106: -1136101769
+      World 1 Enemies_6: 1764165117
+      World 1 Enemies_21: 1296389878
+      World 1 Enemies_121: -266712763
+      World 1 Enemies_119: -910758201
+      World 1 Enemies_55: -1352769686
+      World 1 Enemies_77: -1253113679
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
