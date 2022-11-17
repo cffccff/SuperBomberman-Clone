@@ -1,5 +1,7 @@
 # SuperBomberman-Clone 
 - This is cloned game from Super Bomberman 1 of Nintendo made by Unity.
+## Link WebGL
+- https://cffccff.itch.io/super-bomberman-clone
 ## Rule 
 - Rule is the same as bomberman game: Destroy all the enemy in the level, find the gate to go to next level.
 ## Map 
@@ -25,5 +27,3 @@
 - OOP.
 - ScriptableObject for store some information.
 - Sprite Library to reuse object with same animator.
-## Link WebGL
-- https://cffccff.itch.io/super-bomberman-clone
